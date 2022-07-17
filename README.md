@@ -5,7 +5,8 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gabriellafreitws&show_icons=true&theme=omni&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabriellafreitws&layout=compact&langs_count=7&theme=omni"/>
     
-     [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=gabriellafreitws&theme=omni)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=gabriellafreitws&theme=omni)](https://git.io/streak-stats)
+
 </div>
 <div style="display: inline_block;" style="color: pink;" align="center"><br>
 <p>Currently learning:<p>
