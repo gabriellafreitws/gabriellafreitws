@@ -8,8 +8,7 @@
   <img align="center" alt="HTML" height="80" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" height="80" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Js" height="80" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Ts" height="80" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <p> (HTML, CSS, JavaScript and TypeScript) </p>
+  <p> (HTML, CSS and JavaScript) </p>
 </div>
 <h3> ✨ My goals for 2022 are:</h3>
 
